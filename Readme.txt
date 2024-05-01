@@ -2,7 +2,8 @@
 
 I have build this application using some of the concepts in React like spread operators, useState Hook and maping components
 
-
+c:\Users\HH Traders\Pictures\Screenshots\Screenshot (1068).png
+c:\Users\HH Traders\Pictures\Screenshots\Screenshot (1069).png
 
 If you're ran this locally in VS Code use the commands:
 // fork the repo 
