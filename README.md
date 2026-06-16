@@ -14,4 +14,4 @@ Step 1: fork the repo
 Step 2: To install the node modules
 ```npm install```
 Step 3: To launch your react project in your browser
-// npm run dev
+```npm run dev```
