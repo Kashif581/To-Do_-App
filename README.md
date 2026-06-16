@@ -9,9 +9,9 @@ https://github.com/Kashif581/To-Do_-App/assets/114382367/2cb192bb-584d-44cf-8a0e
 
 
 If you're ran this locally in VS Code use the commands:
-// fork the repo 
-// to make the copy of it
-// npm install
-// to install the node modules and
+Step 1: fork the repo 
+```to make the copy of it```
+Step 2: To install the node modules
+```npm install```
+Step 3: To launch your react project in your browser
 // npm run dev
-// to launch your react project in your browser
